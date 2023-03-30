@@ -8,7 +8,7 @@ See issue here: https://github.com/makenotion/notion-sdk-js/issues/96
 </p>
 
 ## How is this deployed? 
-This worker is deployed on Clouflare. 
+This worker is deployed on Cloudflare. 
 
 Steps to set this up: 
 1. Create a Cloudflare account at https://dash.cloudflare.com/
